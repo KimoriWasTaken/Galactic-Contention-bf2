@@ -1,0 +1,48 @@
+Gameplay:
+- Disable Heroes
+- Disable Enemy Markers and HP Bars
+- Lower HP / Increased Damage Multiplyer
+- Respawn Timers!!!
+- 
+
+
+Define Roles:
+- Commander + permissions
+- SquadLeader + permissions
+- Restriction to 1 class per squad
+- Give each class a specific purpose
+
+
+Voice:
+- Channel 1 and 4: Commander/SquadLeader Voice
+- Channel 2 and 5: Party Voice
+- Channel 3 and 6: Open Voice
+- Mic distortion for Party and Commander Channels
+- Distance falloff for Open Voice
+
+
+Mechanics:
+- On death = downed
+- While downed "Let go" or "Get revived"
+- Revive mechanic for Medics
+- Grab and move downed personnel of same team
+
+
+Commander:
+- Needs Resources
+		Points earned through team
+		Or Resource system
+- Spend Resources
+		Vehicle spawns
+		Areal actions
+				Airhead?
+				Orbital Bombardement?
+				Strafing Run?
+				Recon Plane?
+
+
+SquadLeader:
+- Respawn Beacon
+		Emits sound
+		Can be destroyed by enemies
+		Has cooldown to place again
